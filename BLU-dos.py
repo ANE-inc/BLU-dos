@@ -1,4 +1,4 @@
-# ANE python enviroment v 2.5 for 2019 |pro|
+# ANE BLU-dos .py envrioment
 
 # To use enviroment,tap run, and save.
 # you can only add and subtract 1 digit numbers.
