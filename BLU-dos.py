@@ -4,7 +4,7 @@
 # you can only add and subtract 1 digit numbers.
 
 print ('Welcome to...')
-print('ANE python environment v 2.5 for 2019 |pro|!')
+print('ANE BLU-dos python environment v 3.0!')
 print()
 print('Note: you can only add and subtract 1 digit numbers.')
 print()
@@ -46,7 +46,7 @@ def toolsubtract (c,d):
 def toolbox ():
     print(' tools are toolcountupto () toolcountbytwo () tooladd ()toolsubtract () toolbox() toolmakerandomnumber(i,x), and helpyman ()')
 
-
+'''
 def toolMakeRandomNumber(i,x):
     m = 0
     while (m<i):
@@ -64,9 +64,10 @@ def toolMakeRandomNumber(i,x):
     f = f + m + i
 
     print (f)
+'''
 
-def helpyman ():
-     print('Help for ANE python environment v 2.5')
+def helpy ():
+     print('Help for ANE python environment v 3.0')
      print ('# To use environment, tap run, and save.')
      print('# you can only add and subtract 1 digit numbers.')
      print('Commands:')
@@ -82,7 +83,7 @@ def helpyman ():
      print()
      print('toolmakerandomnumber(i,x)*')
      print()
-def toolpickrandomletter():
+#def toolpickrandomletter():
     print ('tool is not stable!')
     #toolmakerandomnumber(3,4)
 
@@ -96,12 +97,9 @@ def toolpickrandomletter():
 
 
 def build ():
-    print ('1272098117728262019')
-    print ('vershion 2.5')
-    li = 730262019
-    print ('Your key is:')
-    print (li)
+    print ('12335122019')
+    print ('vershion 5')
 
-def pycalc ():
-    print ('If you have the py ware pack, your good to go, run the py calc module,otherwise you can down load it here :')
-    print('https://drive.google.com/file/d/15sEVVyV6Md-9S6YnoHBM_QAt8TQ7Ok46/view')
+
+#def pycalc ():
+    
