@@ -1,7 +1,12 @@
 # ANE BLU-dos .py envrioment
 
+#this is an experimental vershion of BLU-dos.
+
 # To use enviroment,tap run, and save.
 # you can only add and subtract 1 digit numbers.
+
+import rand_int
+
 
 print ('Welcome to...')
 print('ANE BLU-dos python environment v 3.0!')
